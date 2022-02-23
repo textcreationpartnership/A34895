@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the merchants and clothiers of England</title>
+            <author>Carter, W. (William)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34895</idno>
+            <idno type="STC">Wing C677A</idno>
+            <idno type="STC">ESTC R19627</idno>
+            <idno type="EEBO-CITATION">11761940</idno>
+            <idno type="OCLC">ocm 11761940</idno>
+            <idno type="VID">48713</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34895)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48713)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 19:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the merchants and clothiers of England</title>
+                  <author>Carter, W. (William)</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: W. Carter.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Manuscript corrections in contemporary hand.</note>
+                  <note>Reproduction of original in Columbia University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wool industry --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter_against_the_wool_trade">
+            <pb facs="tcp:48713:1"/>
+            <pb n="1" facs="tcp:48713:1" rendition="simple:additions"/>
+            <head>To the <hi>Merchants</hi> and <hi>Clothiers</hi> of <hi>England.</hi>
+            </head>
+            <opener>
+               <salute>GENTLEMEN:</salute>
+            </opener>
+            <p>THo' I have for many years attended that which I have conceived, to be the greateſt Concern of any that related to the Merchants and Clothiers, &amp;c. which is that of preventing Tranſportation of Wooll; and tho' I have met with many diſcourage<g ref="char:EOLhyphen"/>ments in it, not only by reaſon of the greatneſs of my expence and neglect of time, the many hardſhips and dangers I went through: But by reaſon that all thoſe endeavours have been miſinterpreted by ſome, and ſlighted and neglected by others; as if the Charge I had been at, had not been conſiderable, or as if the Pains I had taken, had been no way effectual to prevent a great deal of this miſchief, that would otherwiſe have certainly and unavoidably followed: Yet thoſe that have been more throughly acquainted with my endeavours, cannot but be con<g ref="char:EOLhyphen"/>vinced of the contrary.</p>
+            <p>From which Convictions, ſome were pleaſed long ſince to give me a teſtimony of the Truth there<g ref="char:EOLhyphen"/>of; in the Year 1672, I pr<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>et an Advertiſe<g ref="char:EOLhyphen"/>ment to the Clothiers and Merchants, and laying before them the conſequence of delays, and how far I had proceeded at that time, and was in a fair way to put a ſtop to that Miſchief: Having made ſuch a diſcovery of grand Tranſporters; I proſecuted and convicted many of them, but for
+<pb n="2" facs="tcp:48713:2" rendition="simple:additions"/> want of neceſſary aſſiſtance, I was forced to deſiſt.</p>
+            <p>Notwithſtanding all thoſe diſcouragements, per<g ref="char:EOLhyphen"/>ceiving at length what I had for ſome time a ſuſpiti<g ref="char:EOLhyphen"/>on of, that ſome Perſons at the then next Seſſion of Parliament, did not only appear to juſtify the Fact of Tranſportation of Wooll privately, but did ap<g ref="char:EOLhyphen"/>pear publickly and in Print, to aſſert and avow the conveniance that it would be to this Nation; and therefore did deſire, that an Act of Parliament might be made for a limited Exportation, giving alſo ſome pretended Reaſons for the ſame.</p>
+            <p>In <hi>March</hi> 1676 a Bill was put into the Hand of an Eminent Member of the then Houſe of Com<g ref="char:EOLhyphen"/>mons, to be brought into that Houſe, with whom I had ſome Diſcourſe, and did ſo far diſwade him to delay, till the following Letter prevail'd on the <hi>Factors,</hi> and ſome <hi>Clothiers</hi> then in Town, to aſ<g ref="char:EOLhyphen"/>ſiſt me.</p>
+            <p>
+               <floatingText xml:lang="eng" type="letter">
+                  <body>
+                     <opener>
+                        <date>
+                           <hi>March</hi> the 22<hi>d.</hi> 1676</date>
+                     </opener>
+                     <p>
+                        <hi>Sirs,</hi> Having been at <hi>Weſtminſter</hi> this day, and ſpake with divers Members, I find the Arguments for the Exportation of Wooll, have ſo far prevail<g ref="char:EOLhyphen"/>ed with the Parliament-men, that a Bill is already put in Sr. <hi>T. M <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                        </hi> Hand to bring it into the Houſe, which may be done this very day (altho' I had ſome Diſcourſe with him about it, and did endeavour to diſwade him from it)</p>
+                     <p>The Conſequence of which, ſeeing it muſt tend to the utter Ruine of the Cloathing Trade, and ſeeing I have done the utmoſt that can be expect<g ref="char:EOLhyphen"/>ed
+<pb n="3" facs="tcp:48713:2" rendition="simple:additions"/> on my part to prevent it, which is to draw up Reaſons effectually to make out the Inconvenience of it, which I have alſo put into the Printer's hand.</p>
+                     <p>I thought it my Duty therefore, further to ac<g ref="char:EOLhyphen"/>quaint you, that unleſs ſome further ſpeedy Courſe be taken for a general meeting, to conſider how, and in what manner this Miſchief ſhould be obviated. I conceived the Intereſt of the Clothier would ſud<g ref="char:EOLhyphen"/>denly have grown deſperate, ſeeing no private or ſingle Mans appearing in this Caſe, who ever he be, can ſignify any thing to oppoſe it.</p>
+                     <p>I am much convinced, that not only the Clothing Trade, but the very Intereſt of the Nation in general is at ſtake, and in hazzard to be utterly loſt, if this Point ſhould now be wholly neglected? This I have for ſome Years foreſeen, and have talk<g ref="char:EOLhyphen"/>ed of, but it hath not been regarded, but you will find that I ſpeak not ſlightly, but on good grounds, and what there is juſt Cauſe to ſuſpect, will come to paſs, if this Matter be not with Induſtry and Di<g ref="char:EOLhyphen"/>ligence prevented.</p>
+                  </body>
+               </floatingText>
+            </p>
+            <p>After I had prevailed with the Clothiers to give me ſome encouragement; I did then endeavour to uſe proper Arguments, and took a fit Seaſon to pre<g ref="char:EOLhyphen"/>ſent them, when the Houſe of Commons was ſo earneſt for the prohibiting <hi>French</hi> Commodities, laying before them, that the Wooll endeavoured to be limited for Tranſportation was principally intended for <hi>France,</hi> which proved ſo effectual for
+<pb n="4" facs="tcp:48713:3" rendition="simple:additions"/> the Ends deſigned; which Arguments I refer you to for your further ſatisfaction, <hi>viz.</hi> Page 3. 4. 5. 6. of my <hi>Reply.</hi>
+            </p>
+            <p>After this was laid aſide, the next Seſſion of Par<g ref="char:EOLhyphen"/>liament comes a Gentleman that hath been all along my Competitor, and brings in a Bill, and prevailed ſo far as to get it read and committed, upon which I drew up the following Petition, which was ſigned by ſeveral eminent Merchants and Factors, <hi>viz.</hi>
+            </p>
+            <q>
+               <p>Whereas <hi>there is a Bill depending, the Preamble where<g ref="char:EOLhyphen"/>of ſeems to be againſt Tranſportation of Wooll, the Scope and Conſequence of it (as is humbly conceived) will tend rather to encourage it: For whereas it is ſuggeſted in the ſaid Bill, that the Act made in the</hi> 14th. <hi>Year of His Majeſties Reign, making Tranſporting of Wooll Felony, is ineffectual for the preventing there<g ref="char:EOLhyphen"/>of, and therefore prays the Repealing the Felony of that Act, without confirming the reſt of that Act; as if ma<g ref="char:EOLhyphen"/>king Tranſportation to be Felony did encourage Tranſ<g ref="char:EOLhyphen"/>porting; that Suggeſtion with all ſubmiſſion is concei<g ref="char:EOLhyphen"/>ved to be a great miſtake: For though it muſt be gran<g ref="char:EOLhyphen"/>ted (whatever Laws have been or ſhall be made in this caſe) that ſome Perſons for their own Lucre (though it be never ſo much to the Damage of the great Manu<g ref="char:EOLhyphen"/>facture of this Kingdom, and notwithſtanding all the Care imaginable) will adventure to tranſport Wooll. Yet for ſome Years after that Act of the</hi> 14 Car. 2. <hi>was in force, there was a great ſtop put to the ſaid Tranſportation, until wooll ſo increaſed in</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>land <hi>be<g ref="char:EOLhyphen"/>yond</hi>
+                  <pb n="5" facs="tcp:48713:3"/> 
+                  <hi>its Conſumption there and here, that great Quan tities were actually tranſported from thence; but till that Glut the Act of the</hi> 12th. <hi>Year of His Majeſties Reign (by which the Forfeiture was Three Shillings for every pound of Wooll, beſides the Wooll forfeited) conjoyned with the Act in the</hi> 14th <hi>Year of His Ma<g ref="char:EOLhyphen"/>jeſties Reign, was found effectual to prohibit Tranſ<g ref="char:EOLhyphen"/>porting Wooll, for the Proſecutor had liberty to pro<g ref="char:EOLhyphen"/>ſecute upon which Act he pleaſed as to the Forfei<g ref="char:EOLhyphen"/>ture.</hi>
+               </p>
+               <p>Your <hi>Petitioner further ſheweth: That 'tis well known that the moſt part of the goods, which are Yearly Imported into this Kingdom, being to the value of ſeveral</hi> Millions <hi>of pounds</hi> Sterling, <hi>are no otherwiſe anſwered, but by the value of the Commodities which are exported hence; the bulk of which conſiſts cheifly in our Woollen-Manufacture.</hi>
+               </p>
+               <p>
+                  <hi>And it muſt be granted, that the employment of the Shipping of this Kingdom, which is wholly the main<g ref="char:EOLhyphen"/>tenance of Sea-men, depends not (as in ſome other Countries) upon the Fiſhing, but upon the ſaid Ma<g ref="char:EOLhyphen"/>nufacture mainly and principally:</hi>
+               </p>
+               <p>
+                  <hi>Which therefore is at this time the cheif ſupport of this Kingdom, as that upon which the whole Trade Cuſt<g ref="char:EOLhyphen"/>ome, Shipping, and Strength of it doth mainly de<g ref="char:EOLhyphen"/>pend; over and above the employment that is given to the Poor, and the price that is raiſed upon all ſorts of victuals, and conſequently upon Land it ſelf.</hi>
+               </p>
+               <p>
+                  <hi>From all which it muſt naturally follow, that Wooll, the material of the ſaid Manufacture, ought to be very</hi>
+                  <pb n="6" facs="tcp:48713:4" rendition="simple:additions"/> 
+                  <hi>dear to us, which if we are not ſenſſible of ur ſelves, the French King will teach us; who well under ſtand<g ref="char:EOLhyphen"/>ing, not only wherein the intereſt of this Kingdom doth conſiſt, but how to ſupplant it for the advancement of of his own, hath of late years uſed all Artifices, to acquire the makeing the ſaid Manufacture in his own Dominions with our Wooll; thereby drawing away the ſweet Sapp and Juyce from our Root, for the nou<g ref="char:EOLhyphen"/>riſhment of a forreign Country, and endeavouring to ſtarve our own, in order to which, he labours to prevent the Importation of our Manufacture, either into his own or other Countries, and hath therefore laid divers heavy Taxes upon it.</hi>
+               </p>
+               <p>
+                  <hi>Notwithſtanding which, and tho' the ſaid deſign doth obviouſly and manifeſtly appear, yet ſome are ſo rea<g ref="char:EOLhyphen"/>dy to contribute to their Countries Ruine, as to argue for, defend, promote, and encourge the Tranſporta<g ref="char:EOLhyphen"/>tion of Wooll.</hi>
+               </p>
+            </q>
+            <p>I alſo printed a broad ſheet, intituled <hi>Some Conſide<g ref="char:EOLhyphen"/>rations humbly offered to the Honourable Houſe of Com<g ref="char:EOLhyphen"/>mons;</hi> and got ſome eminent Merchants to aſſiſt me at the Committee; by which means it was then laid aſide: To which Paper after the Adjournment of the Par<g ref="char:EOLhyphen"/>liament, I wrote a <hi>Narrative of the Proceedings,</hi> da<g ref="char:EOLhyphen"/>ted the 15 of <hi>July</hi> 1678, and printed it on the back ſide of the <hi>Conſiderations,</hi> to which I alſo refer you.</p>
+            <p>I ſhall only add, that the Perſon therein mentioned is he, that about fiveteen Years ago, was endeavouring to put a Tax of 2<hi>d. per</hi> Tod, upon all Wooll of the
+<pb n="7" facs="tcp:48713:4" rendition="simple:additions"/> growth of <hi>England</hi> and <hi>Ireland,</hi> to be paid by the buyer, and that upon Oath, which I then prevented, and this was for ſome private Perſon, and the ſame Perſon is ſtill endeavouring to oppoſe me by his Agents.</p>
+            <p>Having therefore for many Years made it my Care to ſecure the Prohibition of the Exportation of Wooll, and been ready in all places to obviate the Deſignes of thoſe, who went about to enervate and alter the Laws made therein: I have ſpent much Time and Mony in my Attendances both on the King and Council at every Seſſion of Parliament: where I have been conſtantly vigilent.</p>
+            <p>I have alſo humbly repreſented to His Excel<g ref="char:EOLhyphen"/>lency the Lord Livetennant of <hi>Ireland</hi> (now going thither) the miſchief of Tranſportation of <hi>Iriſh</hi> Wooll which upon my Petition to His Majeſty is refer'd to His Excellencies Care.</p>
+            <p>Beſides my Journies and late Services in <hi>Kent,</hi> in overſeeing the Veſſels at Sea, hath been no ſmall Charge to me, wherein alſo my Danger hath been as Great as my Succeſs, in regard the Exporters go armed, and have ventured to kill thoſe that oppoſe them.</p>
+            <p>And ſince I have taken the three Sloops, the <hi>French</hi> King hath put out three Men of War, who are now cruſing upon our Coaſt, to protect the <hi>French</hi> Sloops in ſtealing away our Wooll.</p>
+            <p>And this preſent Month, <hi>viz.</hi> 3<hi>d.</hi> of <hi>November</hi>
+               <pb n="8" facs="tcp:48713:5"/> 1685 about midnight, a parcel of Wooll ready to be ſhip't off, being ſeized on the Sea ſide near <hi>Hythe<g ref="char:EOLhyphen"/>ſiade</hi> in the County of <hi>Kent,</hi> the <hi>French</hi> Men that belonged to the Sloop that waited to tranſport it, be<g ref="char:EOLhyphen"/>ing well armed, fell upon us that ſeized it, and reſ<g ref="char:EOLhyphen"/>cuing the Wooll carried it away to Sea.</p>
+            <p>Now ſeeing our Adverſaries are ſo bold and da<g ref="char:EOLhyphen"/>ring, that what they cannot accompliſh by ſecret Fraud, they will carry on by open Force; beſides the Diligence and Induſtry to prevent them, there are apparent hazards of Life.</p>
+            <p>Therefore as well in Conſideration of my paſt Services, the charge of Servants and Aſſiſtance, as the preſent burthen lies upon me in looking after the ſaid Veſſels, as alſo my conſtant and unalterable Reſolutions, by my future continued Attendances in all Places. Needful and ſtrict Vigilance to ſecure this Point: Therefore I cannot but doubt, that I may have reaſon to expect Encouragement therein, by ſome light and eaſy Contribution of all Perſons concerned, leaſt otherwiſe I ruine my private Con<g ref="char:EOLhyphen"/>dition, while I am endeavouring to ſerve the Pub<g ref="char:EOLhyphen"/>lick.</p>
+            <closer>
+               <salute>Gentlemen</salute>
+               <signed>Your Humble Servant <hi>W. Carter.</hi>
+               </signed>
+            </closer>
+            <pb facs="tcp:48713:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
